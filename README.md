@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Tabspear
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Manual Testing
-- 💞️ I’m looking to collaborate on testing tools
+- 👀 I’m interested in Software Development
 - 📫 How to reach me via my Github profile
 
 <!---
